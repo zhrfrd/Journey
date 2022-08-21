@@ -1,0 +1,15 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyBV1-aIaajlChV0XbgWJaPOQ3KIQfM5T-g</string>
+    <string name="app_name">OnTheWay</string>
+
+    <string-array name="listOfRadius">
+        <item>100 m</item>
+        <item>200 m</item>
+        <item>500 m</item>
+        <item>1 km</item>
+        <item>2 km</item>
+        <item>3 km</item>
+    </string-array>
+
+    <bool name="enable_nearby_search">true</bool>
+</resources>
